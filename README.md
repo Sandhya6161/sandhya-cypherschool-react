@@ -99,6 +99,4 @@ How to use a componenet library in a project and buid bigger components. Working
 
 ## **Author**
 
-- **Website** - [JayaSrikar K](https://jayasrikark.netlify.app/)
-- **Twitter** - [@jayasrikark](https://twitter.com/jayasrikark)
-- **LinkedIn** - [jayasrikark](https://www.linkedin.com/in/jayasrikark/)
+- **LinkedIn** - [Sandhya Rao](https://www.linkedin.com/in/sandhya-rao-966219193/)
